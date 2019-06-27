@@ -1,5 +1,5 @@
 # Theme Skin
-skin: default # default, night, plum, sea, soft, steel
+skin: night # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -36,3 +36,7 @@ google_fonts:
 navigation_pages:
   - about.md
   - cv.md
+  - svg制作.md
+  - 平面设计.md
+  - 网站设计.md
+  - 学习笔记.md
