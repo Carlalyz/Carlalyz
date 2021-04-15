@@ -1,4 +1,5 @@
 ---
 layout: home
 image: assets/images/banner.png
+paginate: true
 ---
