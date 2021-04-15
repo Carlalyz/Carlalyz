@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: Carlalyz的期末项目
+title: Carlalyz的自我策展网站
 email:
-description: C的网页，用于期末作业
+description: 自我策展作业网站
 baseurl: "Carlalyz" # the optional subpath of your site, e.g. "/blog"
 url: "https://Carlalyz.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
